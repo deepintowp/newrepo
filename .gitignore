@@ -1,4 +1,8 @@
 .sass-cache/
 *.css.map
+<<<<<<< HEAD
 #ignore conflicts files
 *.orig
+=======
+#updating directly from github
+>>>>>>> 173cb742e47562bd715a00d7c8e1e6fd98c58bca
